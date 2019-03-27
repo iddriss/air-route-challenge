@@ -12,6 +12,6 @@ and airport.csv
 
 
 #### How to run
-command: python3 air-routes.py <inputfile>
+command: python3 air-routes.py "inputfile"
 
-<inputfile> is text file
+"inputfile" is text file
